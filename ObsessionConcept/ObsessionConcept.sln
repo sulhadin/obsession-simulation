@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsessionConcept", "ObsessionConcept.csproj", "{EA1074ED-2D3F-96AB-5183-8AA5CEA98A03}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsessionConcept", "Assembly-CSharp.csproj", "{D86843F8-5F57-4EC7-0C2E-9E7EB4D9D232}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EA1074ED-2D3F-96AB-5183-8AA5CEA98A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EA1074ED-2D3F-96AB-5183-8AA5CEA98A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EA1074ED-2D3F-96AB-5183-8AA5CEA98A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EA1074ED-2D3F-96AB-5183-8AA5CEA98A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86843F8-5F57-4EC7-0C2E-9E7EB4D9D232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86843F8-5F57-4EC7-0C2E-9E7EB4D9D232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86843F8-5F57-4EC7-0C2E-9E7EB4D9D232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86843F8-5F57-4EC7-0C2E-9E7EB4D9D232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
